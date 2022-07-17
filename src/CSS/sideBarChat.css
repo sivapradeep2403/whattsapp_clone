@@ -1,0 +1,12 @@
+.sideBarChat_parent{
+    display:flex;
+    padding: 20px;
+    border-bottom:3px solid #f6f6f6;
+    overflow:hidden
+}
+.sideBarChat_parent:hover{
+    background-color:#ebebeb;
+    height: 80px;
+    font-size: 15px;
+    cursor: pointer;
+}
